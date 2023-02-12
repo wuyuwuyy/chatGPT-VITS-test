@@ -1,2 +1,2 @@
-# chatGPT-VITS-test
-最终目的是实现和小忍（忍野忍）交流
+主要是根据CjangCjengh的MoeGoe项目改的
+因为我只需要文本转音频（有情感）
